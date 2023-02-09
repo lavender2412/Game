@@ -1,2 +1,2 @@
 # Game
-lets make it slow
+lets make it slow by logging it together
